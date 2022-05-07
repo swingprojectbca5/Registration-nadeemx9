@@ -9,6 +9,7 @@ import javax.swing.UIManager;
 public class login extends javax.swing.JFrame
 {
 
+    String nm;
     String token = "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";
     Connection con;
     Statement statement;
