@@ -9,6 +9,7 @@ import javax.swing.UIManager;
 public class signup extends javax.swing.JFrame
 {
 
+    String toke2;
     int xMouse;
     int yMouse;
 
